@@ -27,7 +27,9 @@ html {
   left: auto;
 }
 
-p {
+p,
+h1,
+cite {
   color: #46a1be;
 }
 
