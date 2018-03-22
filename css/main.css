@@ -27,6 +27,16 @@ html {
   left: auto;
 }
 
+.text-box-5 {
+  top: 3em;
+  left: auto;
+}
+
+.text-box-6 {
+  top: 12em;
+  right: -16.2em;
+}
+
 p,
 h1,
 cite {
