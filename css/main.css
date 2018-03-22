@@ -1,7 +1,40 @@
 html {
   font-family: "Rubik", sans-serif;
+  background-color: rgba(224, 220, 189, .5);
 }
 
 .font-2 {
   font-family: "Montserrat", sans-serif;
+}
+
+.text-box-1 {
+  top: 3em;
+  left: auto;
+}
+
+.text-box-2 {
+  top: 8.3em;
+  left: auto;
+}
+
+.text-box-3 {
+  top: 3em;
+  left: auto;
+}
+
+.text-box-4 {
+  top: 7.4em;
+  left: auto;
+}
+
+p {
+  color: #46A1BE;
+}
+
+.keyword {
+  color: rgba(153, 196, 61, .8);
+}
+
+.neg-keyword {
+  color: #EB3323;
 }
